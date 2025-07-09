@@ -14,3 +14,11 @@ such as a DOI to pin the version of the code itself.
 
 Eventually, this repository will have a companion article explaining
 the process.
+
+## An online environment
+
+The code in this repository can be executed in your browser via
+[mybinder.org](https://mybinder.org/).  You can click on the badge
+below to start the environment.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lballabio/ab-notebook/main)
