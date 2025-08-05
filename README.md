@@ -12,8 +12,17 @@ secondary but are just as needed for replication; such as pinning the
 versions of the code dependencies, or using a permanent identifier
 such as a DOI to pin the version of the code itself.
 
-Eventually, this repository will have a companion article explaining
-the process.
+
+## The full story
+
+An article describing the tooling used for this repository and the
+replication issues that it addresses will be submitted to [Wilmott
+Magazine](https://wilmott.com/category/magazine/).
+
+In the second half of 2026, the same article will also be published on
+[my Substack](https://implementingquantlib.substack.com/); you can
+subscribe for free to receive updates directly to your inbox.
+
 
 ## An online environment
 
