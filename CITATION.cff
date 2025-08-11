@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ballabio"
+  given-names: "Luigi"
+title: "A case study of article replication"
+version: 1.0
+doi: 10.5281/zenodo.16794566
+date-released: 2025-08-11
+url: "https://github.com/lballabio/ab-notebook"

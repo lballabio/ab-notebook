@@ -1,4 +1,4 @@
-# A case study about article replication
+# A case study of article replication
 
 This repository contains a Python notebook replicating the
 F. M. Ametrano and M. Bianchetti paper _Everything You Always Wanted
