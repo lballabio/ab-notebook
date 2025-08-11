@@ -23,6 +23,10 @@ In the second half of 2026, the same article will also be published on
 [my Substack](https://implementingquantlib.substack.com/); you can
 subscribe for free to receive updates directly to your inbox.
 
+Here is the DOI for version 1.0 of this software, used for the article:
+
+[![10.5281/zenodo.16794566](https://zenodo.org/badge/DOI/10.5281/zenodo.16794566.svg)](https://doi.org/10.5281/zenodo.16794566)
+
 
 ## An online environment
 
